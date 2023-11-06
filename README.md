@@ -21,3 +21,6 @@ docker tag image_name username/reponame:version
 
 
 docker push reponame:version
+
+
+dckr_pat_KkBTxSEHmBsAIlQm_JPgnuFsZIc
